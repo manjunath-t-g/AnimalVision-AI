@@ -20,3 +20,4 @@ An AI-powered Animal Recognition application using CLIP.
 
 ## Model
 openai/clip-vit-base-patch32
+
